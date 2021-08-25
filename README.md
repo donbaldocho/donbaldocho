@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @donbaldocho
+- 👀 I’m interested in mobile apps development
+- 🌱 I’m currently learning machine learning and game development
+- 💞️ I’m looking to collaborate on Devel Systems
